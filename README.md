@@ -3,8 +3,10 @@
 
 **🎯Goal:** Use SQL queries to extract and analyze data from a database.<br><br>
 
-**🛠️Tools:** 
+**🛠️Tools:**
+
 -MySQL
+
 -Dataset(Self-created): Ecommerce_SQL_Database<br><br>
 
 **Summary:**
