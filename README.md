@@ -1,4 +1,4 @@
-# Task-4 Data Analyst Internship
+# Task-4 (Data Analyst Internship)
 **SQL for Data Analysis**<br><br>
 
 **🎯Goal:** Use SQL queries to extract and analyze data from a database.<br><br>
