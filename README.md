@@ -9,7 +9,7 @@
 
 -Dataset(Self-created): Ecommerce_SQL_Database<br><br>
 
-**Summary:**
+**💡Summary:**
 
 -Setting up the Database
 
